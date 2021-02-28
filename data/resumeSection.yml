@@ -1,0 +1,87 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### College of Engineering, Bhubaneswar
+
+      Bachelor of Technology from Biju Patnaik University of Technology
+
+      Projects:
+
+      - Enterprise Grade Routers - PFSense based deployments
+
+      - Online Classifieds Platform - Modular Frontend and Microservices
+    time: 2012-2016
+
+  - content: >
+      #### Mar Gregorious Memorial Higher Secondary School, Bokaro Steel City
+
+      Projects:
+
+      - Library Management System (C++)
+
+      - CLI utilites
+
+      - C++ programs
+    time: 2000-2012
+
+experience:
+  - content: >
+      #### Infosys Limited | Technology Analyst
+
+      Working as a Specialist Data Engineer for Rio Tinto.
+      Worked on:
+
+      - Digital Agriculture Solution - Cloud Adoption and Migration, H/W dockets for optional multi-vendor deployments
+
+      - Workforce Alerting and Monitoring in Mining Domain
+
+      - Machine Learning based predictive solutions for Microsoft Finance Department
+
+      - Citizen Development Strategy Initiative - Mobility
+
+      - Social Immersive VR Platforms - Covid-19 Initiative
+
+      - Mobility Specialist/Consultant
+
+    time: Sep 2019 – Present (Bengaluru and Montreal)
+  - content: >
+      #### Infosys Limited | Senior System Engineer
+
+      Worked on:
+
+      - Digital Signage Solution within Mining Domain
+
+      - Production Data Environments - Big Data, DL | DW | DM within Mining Domain
+
+      - Lab Monitoring and Forecasting Platform - Intel
+
+      - Digital Agriculture Platform - H/W implementation and IoT Integration
+
+      - Deep Learning based OCR/OMR solutions
+
+    time: Jul 2018 – Sep 2019 (Bengaluru)
+  - content: >
+      #### Infosys Limited | System Engineer
+
+      Worked on:
+
+      - Supply Chain For Future Solution
+
+      - E2E Warehouse Supply Chain Solution
+
+      - Farmer Information Systems
+
+      - Track and Trace Solutions in Agriculture Domain
+
+    time: Jun 2016 – Jul 2018 (Mysuru and Bengaluru)

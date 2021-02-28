@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle:
+title: >
+  ## What do People Say About Me?
+
+testimonial:
+  - name: Paritosh Divyam
+    comment: Got a chance to work with Nitin when he joined a project at Intel. Technically he has varied skillset and I was amazed to see how quickly he learnt and delivered in the project. One of the few people I looked upto in crisis situations. His expertize was a lot of help to the entire team when we moved from traditional database to Hadoop. He volunteered to take up the ownership and did an excellent job in Big Data. There were challenges everyday with data ingestion with Sqoop, processing with PySpark and the entire ETL. Nitin would solve them and also educate the team on how he did it. He has a good hold on the Big Data technologies, Pyspark, and scripting in Linux domain.  He also contributed in the windows domain including scripting with powershell and a few Windows services in C#. Pleased to have known him and worked with him. I strongly recommend his technical skills and the clear ideas he has with respect to software design.
+    time: Apr 13, 2020
+  - name: Sameer Sahay
+    comment: Strong developer and good user experience acumen!
+    time: Dec 27, 2019
+  - name: Arumoy Chakraborty
+    comment: Nitin is open to experimentation, trying out new things and a reliable team member. Having the know-how of latest technologies or tools is what sets him apart. He'd easily be the go-to person in the team for solutions to the stickiest of problems — primarily as he'd know some of the unusual approaches to a possible solution. It was a thoroughly rewarding experience working alongside him.
+    time: Dec 4, 2018
+  - name: Nicholas Morrs
+    comment: I had the absolute pleasure of working with Nitin on a bespoke Data Capture Andoird App and a Configuration and Analysis Java Microservices Web Application. In no time at all Nitin stepped forward as the stalwart of the 10 person team, not only leading the build of the Android application but also providing critical support across aspects of Devops setup and Web Application configuration. Nitin was attentive to the needs of his customers, engaging and consulting clearly on solutions to problems faced. Every project needs a guy like Nitin, a true maestro. He will go far, and i hope to work with him again in the future.
+    time: Jun 11, 2018

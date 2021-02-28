@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: 
+content: >
+  ## But, what do I do?
+
+  My interests include Machine Learning, Full Stack Development, Mobility and Cloud Technologies. I'm always in learning mode, grasping the most of this fast paced technology expanse. He is currently working as a Specialist Data Engineer for a bespoke mining client in Infosys Limited.
+
+image: images/skill/hero_skill.jpg
+
+skill:
+  - title: IoT
+    percent: 75
+  - title: Big Data
+    percent: 75
+  - title: Data Science
+    percent: 65
+  - title: Mobility and Cloud
+    percent: 90

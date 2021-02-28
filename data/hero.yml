@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am Nitin
+content: >
+  # I’m a Technology Analyst 
+  
+  I enjoy working in IoT | AI/ML | Big Data | Mobility
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/hero-main.jpg
+videoThumb: images/hero/linux-thumb.png
+videoURL: https://www.youtube.com/watch?v=SxPtc52EG2A

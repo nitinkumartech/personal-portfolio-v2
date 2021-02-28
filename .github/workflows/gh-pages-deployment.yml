@@ -1,0 +1,41 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+     - master
+  schedule:
+    # Run on the hour
+    - cron: '0 * * * *'
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v1  
+
+    - name: Update theme
+      run: git submodule update --init --recursive                
+
+    - name: Install Ruby Dev                     
+      run: sudo apt-get install ruby-dev
+
+    - name: Install AsciiDoctor and Rouge
+      run: sudo gem install asciidoctor rouge
+
+    - name: Setup Hugo                           
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extended: true
+
+    - name: Build                                
+      run: hugo
+
+    - name: Deploy                               
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: nitinkumartech/nitinkumartech.github.io
+        publish_branch: master
+        keep_files: true

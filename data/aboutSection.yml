@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: 
+title: >
+  ## About me
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+content: >
+  ### I design and build ultimate things.
+
+  Experienced developer with a history of working in niche technology and software development industry. Fluent in Mobility, Backend and Middleware, IoT H/W and platforms, Cloud platforms and solutions, Orchestration and other infrastructure for development and still extending my learning across the technology expanse. 
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg
