@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recents Article on Nitin Kumar</title>
+    <link>https://nitin-kumar.com/blog/</link>
+    <description>Recent content in Recents Article on Nitin Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://nitin-kumar.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualizing Git Repositories</title>
+      <link>https://nitin-kumar.com/blog/markdown-formatting-demo/</link>
+      <pubDate>Wed, 16 Dec 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://nitin-kumar.com/blog/markdown-formatting-demo/</guid>
+      <description>TLDR: This are the high level steps to create visualizations for your own Git repositories as the example below.
+Use Gource for creating the git visualization PPM frames
+Use FFmpeg for converting PPM frames to MPEG/AVI (any codec) of your choice
+Use combination of sox and FFmpeg to add background music to the generated video (Optional). I did this step because I am anyways uploading this to YouTube).
+You can find all the pre-rendered videos here.</description>
+    </item>
+    
+  </channel>
+</rss>
