@@ -37,9 +37,21 @@ education:
 
 experience:
   - content: >
+      #### Infosys Limited | Technology Lead
+
+      Working as a Specialist Data Engineer for Rio Tinto Exploration.
+      Worked on:
+
+      - Bespoke data-pipelines for geospatial datasets
+
+      - Cloud architecture for mineral exploration use-cases
+
+      - ML based Mineral Prospectivity Mapping implementations leveraging AWS 
+
+    time: Oct 2022 – Present (Vancouver)
+  - content: >
       #### Infosys Limited | Technology Analyst
 
-      Working as a Specialist Data Engineer for Rio Tinto.
       Worked on:
 
       - Digital Agriculture Solution - Cloud Adoption and Migration, H/W dockets for optional multi-vendor deployments
@@ -54,7 +66,7 @@ experience:
 
       - Mobility Specialist/Consultant
 
-    time: Sep 2019 – Present (Bengaluru and Montreal)
+    time: Sep 2019 – Oct 2022 (Bengaluru and Montreal)
   - content: >
       #### Infosys Limited | Senior System Engineer
 
